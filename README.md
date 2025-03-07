@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JPB02/JPB02/output/snake.svg" alt="Snake animation" />
-
-###
